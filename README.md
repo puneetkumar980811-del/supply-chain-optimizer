@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚚 OptiChain: Supply Chain Optimizer
 **Decision Support System for Network Optimization & Logistics Analytics**  
 *College Mini-Project | Operations Research, Linear Programming & Heuristic Analytics*
@@ -101,3 +102,7 @@ Inside the `docs/` folder:
 - **Visualization:** Plotly Express & Graph Objects, Folium, Streamlit-Folium
 - **Web UI:** Streamlit
 - **Testing:** Pytest
+=======
+# supply-chain-optimizer
+OptiChain is an interactive Decision Support System (DSS) designed to help businesses optimize transportation, warehouse locations, inventory levels, delivery routes, and demand planning while reducing operational costs.
+>>>>>>> 13f45ade0348394492db90761de23fa84e027059
